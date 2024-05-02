@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Autowala is a local transportation solution aimed at addressing the limited accessibility to ride-sharing services in [insert region/city name]. The project's primary objective is to connect residents with reliable and affordable transportation options by fostering collaboration with local auto drivers.
+Autowala is a local transportation solution aimed at addressing the limited accessibility to ride-sharing services in [saphale-dahahanu region]. The project's primary objective is to connect residents with reliable and affordable transportation options by fostering collaboration with local auto drivers.
 
 ## Key Features
 
@@ -39,5 +39,5 @@ We welcome feedback from users and stakeholders to help us improve Autowala and 
 
 ## Contact Information
 
-For inquiries or partnership opportunities, please contact [dhiraj2001@sjcem.edu.in].
+For inquiries or partnership opportunities, please contact [222dhiraj2001@sjcem.edu.in].
 
